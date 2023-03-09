@@ -1,0 +1,11 @@
+@import '~bootstrap/scss/bootstrap';
+.App {
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  li {
+    list-style: none;
+  }
+  font-family: 'Roboto', sans-serif;
+}
